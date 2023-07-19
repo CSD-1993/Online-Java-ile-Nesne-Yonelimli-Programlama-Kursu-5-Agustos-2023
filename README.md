@@ -1,7 +1,7 @@
-# Online-Java-ile-Nesne-Yonelimli-Programlama-Kursu-22-Temmuz-2023
+# Online-Java-ile-Nesne-Yonelimli-Programlama-Kursu-5-Agustos-2023
 
 Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından Sistem Bilgisayar İşbirliği ile düzenlenmektedir.
-+ Kurs __22 Temmuz 2023 Cumartesi__ günü başlayacaktır.
++ Kurs __5 Agustos 2023 Cumartesi__ günü başlayacaktır.
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi __180__ saattir. Dersler __Cumartesi ve Pazar__ günleri __09:00 - 13:00__ saatleri arasında yapılacaktır.
